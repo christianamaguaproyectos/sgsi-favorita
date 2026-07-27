@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Dependencias del módulo de demostración SCA - Corporación Favorita",
   "dependencies": {
-    "lodash": "4.17.11"
+    "lodash": "4.18.1"
   }
 }
