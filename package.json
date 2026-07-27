@@ -1,0 +1,8 @@
+{
+  "name": "sgsi-favorita-ecommerce",
+  "version": "1.0.0",
+  "description": "Dependencias del módulo de demostración SCA - Corporación Favorita",
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
